@@ -16,3 +16,5 @@ print("Shape of brain data:",np.shape(brain_data))
 print("Axis 0: Subjects(0-4)")
 print("Axis 1: Seconds(0-59)")
 print("Axis 2: Signals[Delta, Theta, Alpha, Beta]")
+
+np.save("brain_data.npy",brain_data)
