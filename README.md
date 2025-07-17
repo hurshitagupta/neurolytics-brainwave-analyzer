@@ -1,4 +1,4 @@
-# 🧠 Brain Signal Analyzer (NumPy Only Project)
+# 🧠 Brain Signal Analyzer — Simulating and Analyzing Brainwave Data Using NumPy
 
 This is a logic-heavy, NumPy-based project that simulates and analyzes brain signal data from multiple subjects over time. It focuses purely on core Python and NumPy — no visualization or external libraries — to showcase data manipulation, simulation, and analysis skills.
 
@@ -92,3 +92,4 @@ This project is built to demonstrate:
 ---
 
 > ✅ Made with logic, not libraries 😉
+> ⭐ If you liked this project, feel free to star it or check out [my GitHub](https://github.com/hurshitagupta) for more.
