@@ -6,7 +6,7 @@ This is a logic-heavy, NumPy-based project that simulates and analyzes brain sig
 
 ## 📁 Folder Structure
 
-<pre> brain-signal-analyzer/ │ ├── 01_data_generation/ │ └── simulate_brain_data.py # Generates and saves simulated brain signal data │ ├── 02_analysis/ │ └── subject_analysis.py # Computes average and max signal values for each subject │ ├── 03_classification/ │ └── spike_detection.py # Detects abnormal spikes based on signal averages │ ├── brain_data.npy # Simulated data file (NumPy array) └── README.md # Project documentation </pre>
+<pre> ``` brain-signal-analyzer/ │ ├── 01_data_generation/ │ └── simulate_brain_data.py # Generates and saves simulated brain signal data │ ├── 02_analysis/ │ └── subject_analysis.py # Computes average and max signal values for each subject │ ├── 03_classification/ │ └── spike_detection.py # Detects abnormal spikes based on signal averages │ ├── brain_data.npy # Simulated data file (NumPy array) └── README.md # Project documentation ``` </pre>
 
 ---
 
